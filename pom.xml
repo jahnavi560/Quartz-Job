@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.opencodez</groupId>
-	<artifactId>quartz-demo</artifactId>
+	<artifactId>cron-job</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>quartz-demo</name>
+	<name>cron-job</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
